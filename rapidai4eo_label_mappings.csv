@@ -1,0 +1,46 @@
+idx,label,l1id,l2id,l3id
+1,Continuous urban fabric,1,11,111
+2,Discontinuous urban fabric,1,11,112
+3,Industrial or commercial units,1,12,121
+4,Road and rail networks and associated land,1,12,122
+5,Port areas,1,12,123
+6,Airports,1,12,124
+7,Mineral extraction sites,1,13,131
+8,Dump sites,1,13,132
+9,Construction sites,1,13,133
+10,Green urban areas,1,14,141
+11,Sport and leisure facilities,1,14,142
+12,Non-irrigated arable land,2,21,211
+13,Permanently irrigated land,2,21,212
+14,Rice fields,2,21,213
+15,Vineyards,2,22,221
+16,Fruit trees and berry plantations,2,22,222
+17,Olive groves,2,22,223
+18,Pastures,2,23,231
+19,Annual crops associated with permanent crops,2,24,241
+20,Complex cultivation patterns,2,24,242
+21,Land principally occupied by agriculture with significant areas of natural vegetation,2,24,243
+22,Agro-forestry areas,2,24,244
+23,Broad-leaved forest,3,31,311
+24,Coniferous forest,3,31,312
+25,Mixed forest,3,31,313
+26,Natural grasslands,3,32,321
+27,Moors and heathland,3,32,322
+28,Sclerophyllous vegetation,3,32,323
+29,Transitional woodland-shrub,3,32,324
+30,Beaches dunes sands,3,33,331
+31,Bare rocks,3,33,332
+32,Sparsely vegetated areas,3,33,333
+33,Burnt areas,3,33,334
+34,Glaciers and perpetual snow,3,33,335
+35,Inland marshes,4,41,411
+36,Peat bogs,4,41,412
+37,Salt marshes,4,42,421
+38,Salines,4,42,422
+39,Intertidal flats,4,42,423
+40,Water courses,5,51,511
+41,Water bodies,5,51,512
+42,Coastal lagoons,5,52,521
+43,Estuaries,5,52,522
+44,Sea and ocean,5,52,523
+45,NODATA,9,99,999
